@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 61def507b66e4e3408a1831b075e4c8b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5400895924170855228
+    second: tress3_0
+  - first:
+      213: 8461693780973144493
+    second: tress3_1
+  - first:
+      213: -7876745461085274207
+    second: tress3_2
+  - first:
+      213: -6408981616221303418
+    second: tress3_3
+  - first:
+      213: -2198404044464085762
+    second: tress3_4
+  - first:
+      213: 942662465120024543
+    second: tress3_5
+  - first:
+      213: 1384257157140710013
+    second: tress3_6
+  - first:
+      213: 1770036361253584888
+    second: tress3_7
+  - first:
+      213: 8482266974484704748
+    second: tress3_8
+  - first:
+      213: -1836259040025979843
+    second: tress3_9
+  - first:
+      213: 2377271544696394518
+    second: tress3_10
+  - first:
+      213: 5481031419215594424
+    second: tress3_11
+  - first:
+      213: 5486870920610187866
+    second: tress3_12
+  - first:
+      213: -7756530544975494460
+    second: tress3_13
+  - first:
+      213: 8344371378136537102
+    second: tress3_14
+  - first:
+      213: 8247916120334230370
+    second: tress3_15
+  - first:
+      213: 8356148473911745675
+    second: tress3_16
+  - first:
+      213: 5588827972320755569
+    second: tress3_17
+  - first:
+      213: -5999639240028248921
+    second: tress3_18
+  - first:
+      213: 3749428584599855989
+    second: tress3_19
+  - first:
+      213: -4822021191787206576
+    second: tress3_20
+  - first:
+      213: -7203050327530995934
+    second: tress3_21
+  - first:
+      213: 2048890122286426422
+    second: tress3_22
+  - first:
+      213: -6575101524328679005
+    second: tress3_23
+  - first:
+      213: -2280235046492988106
+    second: tress3_24
+  - first:
+      213: -303727227251159070
+    second: tress3_25
+  - first:
+      213: 717213270779544031
+    second: tress3_26
+  - first:
+      213: 2948099430320990368
+    second: tress3_27
+  - first:
+      213: -3403676216441799279
+    second: tress3_28
+  - first:
+      213: 8393228096046674357
+    second: tress3_29
+  - first:
+      213: -5272057172204274247
+    second: tress3_30
+  - first:
+      213: 9063591214225669747
+    second: tress3_31
+  - first:
+      213: 3821998992704555028
+    second: tress3_32
+  - first:
+      213: -7387459595012992934
+    second: tress3_33
+  - first:
+      213: -1391813933325817032
+    second: tress3_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tress3_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6391
+        width: 285
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cce0faa5c92c05b0800000000000000
+      internalID: -5400895924170855228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6410
+        width: 135
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9490d69a9fd6570800000000000000
+      internalID: 8461693780973144493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 6413
+        width: 134
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af77d56cbd20b290800000000000000
+      internalID: -7876745461085274207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 6270
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dce112d29be07a0800000000000000
+      internalID: -6408981616221303418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6127
+        width: 116
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4afe05b23bd71e0800000000000000
+      internalID: -2198404044464085762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 6259
+        width: 133
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b2908482051d00800000000000000
+      internalID: 942662465120024543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 6257
+        width: 107
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720a21ec8ed53310800000000000000
+      internalID: 1384257157140710013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5999
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff7b0841be609810800000000000000
+      internalID: 1770036361253584888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5999
+        width: 136
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced20305fd017b570800000000000000
+      internalID: 8482266974484704748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_9
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 6127
+        width: 139
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34d6abc12c4486e0800000000000000
+      internalID: -1836259040025979843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5999
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613d544efd3cdf020800000000000000
+      internalID: 2377271544696394518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 6003
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3c9193909801c40800000000000000
+      internalID: 5481031419215594424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5880
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a04671808452c40800000000000000
+      internalID: 5486870920610187866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_13
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5744
+        width: 155
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2c441b0944b5490800000000000000
+      internalID: -7756530544975494460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_14
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 5850
+        width: 160
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08d3cbde892dc370800000000000000
+      internalID: 8344371378136537102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5797
+        width: 182
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2636db9130c767270800000000000000
+      internalID: 8247916120334230370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5727
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9ee5a3c007f370800000000000000
+      internalID: 8356148473911745675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5658
+        width: 193
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ff1f01e618f8d40800000000000000
+      internalID: 5588827972320755569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5525
+        width: 188
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a42f9d06effcbca0800000000000000
+      internalID: -5999639240028248921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_19
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5542
+        width: 117
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57325cfae65a80430800000000000000
+      internalID: 3749428584599855989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5506
+        width: 173
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0582e14364db41db0800000000000000
+      internalID: -4822021191787206576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5366
+        width: 145
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ff048f3ef990c90800000000000000
+      internalID: -7203050327530995934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5310
+        width: 195
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63960b2f5be1f6c10800000000000000
+      internalID: 2048890122286426422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 5309
+        width: 199
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a97240000c80c4a0800000000000000
+      internalID: -6575101524328679005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5054
+        width: 167
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d93617e4afa50e0800000000000000
+      internalID: -2280235046492988106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_25
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5100
+        width: 118
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef841f22b1f8cbf0800000000000000
+      internalID: -303727227251159070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_26
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 5082
+        width: 168
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1c2097bad04f900800000000000000
+      internalID: 717213270779544031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1361
+        width: 585
+        height: 3730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a860daefc0c9e820800000000000000
+      internalID: 2948099430320990368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1192
+        width: 350
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d7a8cb386b3c0d0800000000000000
+      internalID: -3403676216441799279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 858
+        width: 307
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1b0bfeb7cba7470800000000000000
+      internalID: 8393228096046674357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 959
+        width: 312
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdb6373fe3e5d6b0800000000000000
+      internalID: -5272057172204274247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 372
+        width: 277
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb549303858cd70800000000000000
+      internalID: 9063591214225669747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 547
+        width: 345
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4184e0485d77a0530800000000000000
+      internalID: 3821998992704555028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 304
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5013b683a87a7990800000000000000
+      internalID: -7387459595012992934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tress3_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 162
+        width: 326
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83becae0a984face0800000000000000
+      internalID: -1391813933325817032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tress3_0: -5400895924170855228
+      tress3_1: 8461693780973144493
+      tress3_10: 2377271544696394518
+      tress3_11: 5481031419215594424
+      tress3_12: 5486870920610187866
+      tress3_13: -7756530544975494460
+      tress3_14: 8344371378136537102
+      tress3_15: 8247916120334230370
+      tress3_16: 8356148473911745675
+      tress3_17: 5588827972320755569
+      tress3_18: -5999639240028248921
+      tress3_19: 3749428584599855989
+      tress3_2: -7876745461085274207
+      tress3_20: -4822021191787206576
+      tress3_21: -7203050327530995934
+      tress3_22: 2048890122286426422
+      tress3_23: -6575101524328679005
+      tress3_24: -2280235046492988106
+      tress3_25: -303727227251159070
+      tress3_26: 717213270779544031
+      tress3_27: 2948099430320990368
+      tress3_28: -3403676216441799279
+      tress3_29: 8393228096046674357
+      tress3_3: -6408981616221303418
+      tress3_30: -5272057172204274247
+      tress3_31: 9063591214225669747
+      tress3_32: 3821998992704555028
+      tress3_33: -7387459595012992934
+      tress3_34: -1391813933325817032
+      tress3_4: -2198404044464085762
+      tress3_5: 942662465120024543
+      tress3_6: 1384257157140710013
+      tress3_7: 1770036361253584888
+      tress3_8: 8482266974484704748
+      tress3_9: -1836259040025979843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
