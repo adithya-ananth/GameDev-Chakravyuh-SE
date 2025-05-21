@@ -3,8 +3,8 @@
 
 <h3>Devs</h3>
 <ul>
-  <li>Anirudh Arrepu</li>
   <li>Adithya Ananth</li>
+  <li>Anirudh Arrepu</li>
   <li>Dhyanam J</li>
   <li>Surya Ashish</li>
   <li>Srikar Donur</li>
